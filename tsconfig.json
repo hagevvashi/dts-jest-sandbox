@@ -3,7 +3,7 @@
     "target": "ESNEXT",
     "module": "esnext",
     "strict": true,
-    "moduleResolutions": "node",
+    "moduleResolution": "node",
     "esModuleInterop": true,
     "incremental": true,
     "outDir": "dist"
